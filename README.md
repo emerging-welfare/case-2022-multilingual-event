@@ -15,5 +15,7 @@ __Workshop period @ EMNLP__: Dec 7-8, 2022
 
 
 
-Hürriyetoğlu, A., Mutlu, O., Yörük, E., Liza, F. F., Kumar, R., & Ratan, S. (2021, August). [Multilingual Protest News Detection - Shared Task 1, CASE 2021](https://aclanthology.org/2021.case-1.11/ ). In Proceedings of the 4th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE 2021) (pp. 79-91).  
+Hürriyetoğlu, A., Mutlu, O., Yörük, E., Liza, F. F., Kumar, R., & Ratan, S. (2021, August). [Multilingual Protest News Detection - Shared Task 1, CASE 2021](https://aclanthology.org/2021.case-1.11/). In Proceedings of the 4th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE 2021) (pp. 79-91).  
+
+Hürriyetoğlu, A., Mutlu, O., Duruşan, F., Uca, O., Gürel, A. S., Radford, B., ... & Yörük, E. (2022). [Extended Multilingual Protest News Detection--Shared Task 1, CASE 2021 and 2022](https://aclanthology.org/2022.case-1.31/). In Proceedings of the 4th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text (CASE 2022) (pp. 223-228)
 
