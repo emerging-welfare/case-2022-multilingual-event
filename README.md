@@ -1,7 +1,7 @@
-# case-2022-multilingual-event
-This is the repository for the shared task Task 1 at [CASE 2023](https://emw.ku.edu.tr/case-2023/), which will be held at [RANLP](https://ranlp.org/ranlp2023/). Contact person: [Ali Hürriyetoğlu](mailto:ali.hurriyetoglu@gmail.com). The previous edition of this event is [CASE 2021](https://github.com/emerging-welfare/case-2021-shared-task).
+# case-2023-multilingual-event
+This is the repository for the shared task Task 1 at [CASE 2023](https://emw.ku.edu.tr/case-2023/) (same as CASE 2022), which will be held at [RANLP](https://ranlp.org/ranlp2023/). Contact person: [Ali Hürriyetoğlu](mailto:ali.hurriyetoglu@gmail.com). The previous edition of this event is [CASE 2021](https://github.com/emerging-welfare/case-2021-shared-task).
 
-This is a continuation of the shared task CASE 2021 (Hürriyetoğlu et al., 2021). The training set is the same as CASE 2021. But the evaluation phase will include data from additional languages in CASE 2022. Please complete and send the participation [form](CASE2022-Shared-Task-ProtestNews-Individual-Application.pdf) to the contact person. 
+This is a continuation of the shared task CASE 2021 (Hürriyetoğlu et al., 2021). The training set is the same as CASE 2021. But the evaluation phase includes data in additional languages in CASE 2022. Please complete and send the participation [form](CASE2022-Shared-Task-ProtestNews-Individual-Application.pdf) to the contact person. 
 
 ## Timeline: 
 __Training data available__: please follow instructions on https://github.com/emerging-welfare/case-2021-shared-task for Task 1. You can obtain the test data for CASE 2021 as well, with a codalab page (https://competitions.codalab.org/competitions/31639) available to obtain a score for your predictions.  
